@@ -6,6 +6,7 @@ ASCII art found here: https://asciiart.website/index.php?art=holiday/christmas/s
 
 bdn = Bonhomme de neige, snowman in french.
 
+```
 < Hello world > 
 ---------------
        \
@@ -14,6 +15,7 @@ bdn = Bonhomme de neige, snowman in french.
       '--( : )--'
         (  :  )
       ""'-...-'""
+```
 
 ## Run the example
 ```GOARCH=wasm GOOS=js go build -o bdnsay.wasm main.go```
