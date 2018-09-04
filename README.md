@@ -1,6 +1,6 @@
 # bdnsay
 A simple example of Go Web assembly based on the go documentation :
-https://github.com/golang/go/wiki/WebAssembly
+https://github.com/golang/go/wiki/WebAssembly and this article: https://tutorialedge.net/golang/go-webassembly-tutorial/
 
 ASCII art found here: https://asciiart.website/index.php?art=holiday/christmas/snowman
 
